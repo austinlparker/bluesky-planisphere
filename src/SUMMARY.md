@@ -1,6 +1,6 @@
 # Summary
 
-- [Introduction](./introduction.md)
+[Introduction](./introduction.md)
 - [Getting Started With Bluesky](./getting_started.md)
 - [Bluesky For Users](./users/intro.md)
     - [What Is Federation?](./users/federation.md)
