@@ -1,0 +1,6 @@
+[book]
+authors = ["austinlparker"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Bluesky Community Guide"
